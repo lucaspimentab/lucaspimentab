@@ -1,47 +1,22 @@
-<h1 align="center">Olá 👋, Eu sou o Lucas Pimenta Braga</h1>
-<h3 align="center">Estudante de Engenharia de Sistemas na UFMG, com interesse em ciência de dados, aprendizado de máquina e desenvolvimento de software.</h3>
+<h1 align="center">Hey 👋, I'm Lucas Pimenta Braga</h1>
+<h3 align="center">A Systems Engineering student passionate about artificial intelligence, data science, and innovative technological solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-pimenta&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-pimenta" /> </p>
-
-- 🎓 Atualmente estudando Engenharia de Sistemas na **UFMG**  
-- 🖥️ Possuo formação técnica em **Eletrônica**, onde adquiri conhecimentos em **C, C++ e Python**  
-- 🤖 Pesquisador em **aprendizado de máquina** no **SPEED Lab**  
-- 🔬 Desenvolvendo pesquisas sobre **inteligência artificial aplicada à cardiologia**, analisando séries temporais como **eletrocardiogramas**  
-- 📚 Sempre disposto a aprender mais sobre **ciência de dados, IA e desenvolvimento de software**  
-
-<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/lucas-pim" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-pim" height="30" width="40" />
-</a>
+  <img src="https://komarev.com/ghpvc/?username=LucasPimentaBR&label=Profile%20views&color=0e75b6&style=flat" alt="LucasPimentaBR" />
 </p>
 
-<h3 align="left">Linguagens e ferramentas:</h3>
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a>
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="40" height="40"/>
-</a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-</a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
-</p>
+## 🔬 Research & Work
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-pimenta&show_icons=true&locale=en&layout=compact" alt="lucas-pimenta" /></p>
+I am a researcher at the **System Performance Evaluation and Experimental Development (SPEED) Lab** at UFMG, where I work as a developer on cutting-edge artificial intelligence projects. Currently, I am part of a pioneering research initiative applying AI in cardiology, specifically analyzing time series data such as electrocardiograms. Our goal is to assess age prediction in patients affected by the Zika virus and investigate potential long-term impacts. This project is developed in collaboration with the **Hospital das Clínicas and the Faculty of Medicine at UFMG**.
+
+## 🛠️ Technologies & Skills
+
+Throughout my academic and professional journey, I have worked with a variety of programming languages and frameworks. My experience includes **C, C++, Python**, and a growing expertise in **data science and machine learning**.
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Pimenta-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lucas-pim)
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasPimentaBR&show_icons=true&locale=en&layout=compact" alt="LucasPimentaBR" />
+</p>
