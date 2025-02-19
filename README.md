@@ -7,7 +7,7 @@
 
 ## 🔬 Research & Work
 
-I am a researcher at the **System Performance Evaluation and Experimental Development (SPEED) Lab** at UFMG, where I work as a developer on cutting-edge artificial intelligence projects. Currently, I am part of a pioneering research initiative applying AI in cardiology, specifically analyzing time series data such as electrocardiograms. Our goal is to assess age prediction in patients affected by the Zika virus and investigate potential long-term impacts. This project is developed in collaboration with the **Hospital das Clínicas and the Faculty of Medicine at UFMG**.
+I am a researcher at the **System Performance Evaluation and Experimental Development (SPEED) Lab** at UFMG, where I work as a developer on cutting-edge artificial intelligence projects. Currently, I am part of a pioneering research initiative applying AI in cardiology, specifically analyzing time series data such as electrocardiograms. Our goal is to assess age prediction in patients affected by the Zika virus and investigate potential long-term impacts. This project is developed in collaboration with the Hospital das Clínicas and the Faculty of Medicine at UFMG.
 
 ## 🛠️ Technologies & Skills
 
