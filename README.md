@@ -7,11 +7,11 @@
 
 ## 🔬 Research & Work
 
-I am a researcher in the field of machine learning and artificial intelligence at UFMG, where I contribute to various innovative projects focused on AI applications.
+I am a researcher in machine learning and artificial intelligence at UFMG, contributing to projects focused on AI applications and data analysis.
 
 ## 🛠️ Technologies & Skills
 
-Throughout my academic and professional journey, I have worked with a variety of programming languages and frameworks. My experience includes **C, C++, Python**, and a growing expertise in **data science and machine learning**.
+I have experience with programming languages such as C, C++, and Python. I'm constantly developing my skills in data science and machine learning through academic and professional projects.
 
 ## 📫 Connect with Me
 
