@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Lucas Pimenta Braga</h1>
-<h3 align="center">A Systems Engineering student passionate about artificial intelligence, data science, and innovative technological solutions.</h3>
+<h3 align="center">A Systems Engineering student deeply interested about artificial intelligence, data science, and innovative technological solutions.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=LucasPimentaBR&label=Profile%20views&color=0e75b6&style=flat" alt="LucasPimentaBR" />
@@ -7,7 +7,7 @@
 
 ## 🔬 Research & Work
 
-I am a researcher at the **System Performance Evaluation and Experimental Development (SPEED) Lab** at UFMG, where I work as a developer on cutting-edge artificial intelligence projects. Currently, I am part of a pioneering research initiative applying AI in cardiology, specifically analyzing time series data such as electrocardiograms. Our goal is to assess age prediction in patients affected by the Zika virus and investigate potential long-term impacts. This project is developed in collaboration with the Hospital das Clínicas and the Faculty of Medicine at UFMG.
+I am a researcher in the field of machine learning and artificial intelligence at UFMG, where I contribute to various innovative projects focused on AI applications.
 
 ## 🛠️ Technologies & Skills
 
