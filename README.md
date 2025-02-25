@@ -2,7 +2,7 @@
 <h3 align="center">A Systems Engineering student deeply interested about artificial intelligence, data science, and innovative technological solutions.</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=LucasPimentaBR&label=Profile%20views&color=0e75b6&style=flat" alt="lucaspimentab" />
+  <img src="https://komarev.com/ghpvc/?username=lucaspimentab&label=Profile%20views&color=0e75b6&style=flat" alt="lucaspimentab" />
 </p>
 
 ## 🔬 Research & Work
