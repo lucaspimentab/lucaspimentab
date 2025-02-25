@@ -2,7 +2,7 @@
 <h3 align="center">A Systems Engineering student deeply interested about artificial intelligence, data science, and innovative technological solutions.</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=LucasPimentaBR&label=Profile%20views&color=0e75b6&style=flat" alt="LucasPimentaBR" />
+  <img src="https://komarev.com/ghpvc/?username=LucasPimentaBR&label=Profile%20views&color=0e75b6&style=flat" alt="lucaspimentab" />
 </p>
 
 ## 🔬 Research & Work
@@ -18,5 +18,5 @@ I have experience with programming languages such as C, C++, and Python. I'm con
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Pimenta-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lucas-pim)
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaspimentabshow_icons=true&locale=en&layout=compact" alt="lucaspimentab" />
-</p>
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaspimentab&show_icons=true&locale=en&layout=compact" alt="lucaspimentab" /></p>
