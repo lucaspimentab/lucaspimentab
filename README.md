@@ -15,6 +15,12 @@
 ---
 
 <p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspimentab&layout=compact&theme=default&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
   <a href="https://www.linkedin.com/in/lucas-pim">
     <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Pimenta-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
