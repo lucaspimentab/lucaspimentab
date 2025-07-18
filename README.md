@@ -11,8 +11,6 @@ I’m currently a researcher at the **Federal University of Minas Gerais (UFMG)*
 
 My work includes developing predictive models for intensive care units, supporting clinical decision-making, and analyzing mental health data through natural language processing.
 
-I'm driven by the opportunity to connect technology and healthcare — using data to generate meaningful impact in people's lives.
-
 ---
 
 <p align="center">
