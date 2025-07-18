@@ -7,9 +7,10 @@
 
 ---
 
-I’m currently a researcher at the Federal University of Minas Gerais (UFMG), working on artificial intelligence applications in mental health, intensive care medicine, and data analysis.
-
-I'm passionate about creating real-world solutions using machine learning and data science.
+<p align="center">
+  I’m currently a researcher at the <strong>Federal University of Minas Gerais (UFMG)</strong>, working on artificial intelligence applications in mental health, intensive care medicine, and data analysis.<br>
+  I'm passionate about creating real-world solutions using machine learning and data science.
+</p>
 
 ---
 
@@ -22,6 +23,6 @@ I'm passionate about creating real-world solutions using machine learning and da
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-pim">
-    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Pimenta-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Pimenta-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
