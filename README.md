@@ -7,9 +7,11 @@
 
 ---
 
-I’m currently a researcher at the Federal University of Minas Gerais (UFMG), working on artificial intelligence applications in mental health, intensive care medicine, and data analysis.
+I’m currently a researcher at the **Federal University of Minas Gerais (UFMG)**, working on real-world applications of data science and machine learning, with a special focus on healthcare.
 
-I'm passionate about creating real-world solutions using machine learning and data science.
+My work includes developing predictive models for intensive care units, supporting clinical decision-making, and analyzing mental health data through natural language processing.
+
+I'm driven by the opportunity to connect technology and healthcare — using data to generate meaningful impact in people's lives.
 
 ---
 
