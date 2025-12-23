@@ -1,5 +1,5 @@
 <h1 align="center">Lucas Pimenta Braga</h1>
-<p align="center"><b>Data Scientist</b> • Systems Engineering student at UFMG • Applied Health Data Science</p>
+<p align="center"><b>Data Scientist</b> • Systems Engineering • Applied Health Data Science</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lucaspimentab&label=Profile+views&color=0e75b6&style=flat-square" alt="Profile views" />
@@ -10,7 +10,8 @@
 ### About
 I’m a **Data Scientist** and a **Systems Engineering student at the Federal University of Minas Gerais (UFMG)**.
 
-My interests focus on **Data Science** and **Fiscal Intelligence applied to Healthcare**, working with data-driven methods to support analysis and decision-making in real-world health contexts.
+I also conduct research in **Data Science** and **Artificial Intelligence applied to Healthcare**, focusing on building data-driven solutions to support analysis and decision-making in real-world health contexts.
+
 
 ---
 
