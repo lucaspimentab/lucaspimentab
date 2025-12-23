@@ -1,5 +1,5 @@
 <h1 align="center">Lucas Pimenta Braga</h1>
-<p align="center"><b>Data Scientist</b> • Systems Engineering • Applied Health Data Science</p>
+<p align="center"><b>Data Scientist</b> • Systems Engineering • AI Researcher</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lucaspimentab&label=Profile+views&color=0e75b6&style=flat-square" alt="Profile views" />
